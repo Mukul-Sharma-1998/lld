@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6373b2ac-28fc-44f6-993b-ffd89e6bb05e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LldApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/BaseClasses/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/BaseClasses/FarmeHousePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/BaseClasses/MargeritaPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/DecoratorClasses/ExtraCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/DecoratorClasses/Jalapeno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/DecoratorClasses/Peparoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/DecoratorClasses/ToppingPizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observable/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observable/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observer/MobileObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observer/RadioObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observer/TvObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/solid/Solid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/PaymentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/userPayment/NormalUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/userPayment/SuperUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/userPayment/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/vehicles/OffRoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/vehicles/SportsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/drive/DriveStratergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/drive/OffRoadDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/drive/SportsDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/payment/BtcPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/payment/CardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/payment/CashPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/payment/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/vehicleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lld/LldApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mgy051iMKBzJuAu2VmXVczdycf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.com.example.lld.decoratorDesignPattern.PizzaExample.Main">
+    <configuration name="LldApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.LldApplication" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.observerDesignPattern.wheatherStation.Main" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lld.observerDesignPattern.wheatherStation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.stratergyDesignPattern.VehicleExample.PaymentMain" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lld.stratergyDesignPattern.VehicleExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.lld.decoratorDesignPattern.PizzaExample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.decoratorDesignPattern.PizzaExample.Main" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lld.decoratorDesignPattern.PizzaExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vehicleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.stratergyDesignPattern.VehicleExample.vehicleMain" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lld.stratergyDesignPattern.VehicleExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.example.lld.decoratorDesignPattern.PizzaExample.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PaymentMain" />
+        <item itemvalue="Application.vehicleMain" />
+        <item itemvalue="Application.LldApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6373b2ac-28fc-44f6-993b-ffd89e6bb05e" name="Changes" comment="" />
+      <created>1727512289577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727512289577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
