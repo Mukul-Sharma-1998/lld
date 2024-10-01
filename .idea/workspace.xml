@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6373b2ac-28fc-44f6-993b-ffd89e6bb05e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LldApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/BaseClasses/BasePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/BaseClasses/FarmeHousePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/BaseClasses/MargeritaPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/DecoratorClasses/ExtraCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/DecoratorClasses/Jalapeno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/DecoratorClasses/Peparoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/DecoratorClasses/ToppingPizzaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/decoratorDesignPattern/PizzaExample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observable/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observable/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observer/MobileObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observer/RadioObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/observerDesignPattern/wheatherStation/observer/TvObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/solid/Solid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/PaymentMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/userPayment/NormalUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/userPayment/SuperUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/userPayment/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/vehicles/OffRoadVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/vehicles/SportsVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/entity/vehicles/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/drive/DriveStratergy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/drive/OffRoadDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/drive/SportsDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/payment/BtcPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/payment/CardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/payment/CashPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/stratergy/payment/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/stratergyDesignPattern/VehicleExample/vehicleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/lld/LldApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="6373b2ac-28fc-44f6-993b-ffd89e6bb05e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
