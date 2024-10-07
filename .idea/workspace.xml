@@ -5,17 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6373b2ac-28fc-44f6-993b-ffd89e6bb05e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/Symbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/checkWinnerStratergy/CheckWinnerByColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/checkWinnerStratergy/CheckWinnerByNegativeDiagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/checkWinnerStratergy/CheckWinnerByPositiveDiagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/checkWinnerStratergy/CheckWinnerByRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/checkWinnerStratergy/CheckWinnerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/ticTacToe/checkWinnerStratergy/CheckWinnerStratergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/ElevatorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/InterButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSearchByCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSearchByDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSearchFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSearchStratergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSerachByTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/SearchStratergyIdentifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/ZoomCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentByCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentByCash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/BikeStoreManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/CarStoreManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/SearchByCarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/SearchFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/StoreManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/searchStratergy/SearchByFuel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/searchStratergy/SearchStratergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/searchStratergy/SearchStratergyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/vehicle/VehicleStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/vehicle/VehicleType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
