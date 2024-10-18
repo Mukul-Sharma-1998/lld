@@ -5,39 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6373b2ac-28fc-44f6-993b-ffd89e6bb05e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/ElevatorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/InterButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSearchByCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSearchByDefault.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSearchFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSearchStratergy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/ElevatorSerachByTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/elevator/elevatorStratergy/SearchStratergyIdentifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/ZoomCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentByCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentByCash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/payment/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/BikeStoreManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/CarStoreManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/SearchByCarType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/SearchFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/StoreManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/searchStratergy/SearchByFuel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/searchStratergy/SearchStratergy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/store/searchStratergy/SearchStratergyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/vehicle/VehicleStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/zoomCar/vehicle/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/DebugLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/ErrorLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/InfoLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/LogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/endStartergy/EndStratergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/endStartergy/EndWithFinalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/endStartergy/EndWithMoreThanFinalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/GameManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Hurdle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/NoHurdle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/startStratergy/StartStratergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/startStratergy/StartWithSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/startStratergy/StartWithZeroSix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,26 +62,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.example.lld.ticTacToe.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lld.observerDesignPattern.wheatherStation.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.snakeAndLadder.Main" />
       <module name="lld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.lld.observerDesignPattern.wheatherStation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.example.lld.decoratorDesignPattern.PizzaExample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lld.decoratorDesignPattern.PizzaExample.Main" />
-      <module name="lld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.lld.decoratorDesignPattern.PizzaExample.*" />
+          <option name="PATTERN" value="com.example.lld.snakeAndLadder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.LogProcessor.main" />
+      <module name="lld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lld.LogProcessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.com.example.lld.ticTacToe.Main" />
         <item itemvalue="Application.com.example.lld.parkingLot.Main" />
         <item itemvalue="Application.com.example.lld.factoryDesignPattern.Main" />
-        <item itemvalue="Application.com.example.lld.decoratorDesignPattern.PizzaExample.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
