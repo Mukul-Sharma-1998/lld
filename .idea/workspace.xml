@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6373b2ac-28fc-44f6-993b-ffd89e6bb05e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/DebugLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/ErrorLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/InfoLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/LogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/LogProcessor/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/endStartergy/EndStratergy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/endStartergy/EndWithFinalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/endStartergy/EndWithMoreThanFinalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Die.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/GameManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Hurdle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Ladder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/NoHurdle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/model/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/startStratergy/StartStratergy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/startStratergy/StartWithSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/startStratergy/StartWithZeroSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/hashMap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/hashMap/MyMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/snakeAndLadder/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.example.lld.hashMap.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.lld.snakeAndLadder.Main" />
       <module name="lld" />
@@ -76,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.example.lld.factoryDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lld.factoryDesignPattern.Main" />
+    <configuration name="com.example.lld.hashMap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.hashMap.Main" />
       <module name="lld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.lld.factoryDesignPattern.*" />
+          <option name="PATTERN" value="com.example.lld.hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.example.lld.hashMap.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.com.example.lld.ticTacToe.Main" />
         <item itemvalue="Application.com.example.lld.parkingLot.Main" />
-        <item itemvalue="Application.com.example.lld.factoryDesignPattern.Main" />
       </list>
     </recent_temporary>
   </component>

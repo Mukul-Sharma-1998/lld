@@ -6,6 +6,7 @@ import com.example.lld.snakeAndLadder.startStratergy.StartWithOneSix;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 
 public class Main {
@@ -22,6 +23,7 @@ public class Main {
 //        for(Hurdle hurdle: hurdles){
 //            System.out.println(hurdle.start +" "+ hurdle.end);
 //        }
+
 
         Board board = new Board(50, hurdles);
 
