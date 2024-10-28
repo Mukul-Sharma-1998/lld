@@ -31,5 +31,8 @@ public class Main {
         myMap.put("Divya", "Sabharwal");
         System.out.println(myMap.get("Divya"));
 
+        MyMap<Integer, Integer> myMap1 = new MyMap<>(65);
+        System.out.println(myMap1.currentSize);
+
     }
 }
