@@ -10,7 +10,11 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Item {
-    private int itemCode;
+    private Integer itemCode;
     private ItemType itemType;
-    private int price;
+    private Integer itemPrice;
+
+    public String toString() {
+        return this.getItemType().toString() + " " + this.getItemPrice().toString() + " " + this.getItemCode().toString();
+    }
 }

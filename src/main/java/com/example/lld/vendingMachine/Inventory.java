@@ -5,6 +5,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.util.List;
 import java.util.Map;
 
 @NoArgsConstructor
@@ -12,6 +13,6 @@ import java.util.Map;
 @Getter
 @Setter
 public class Inventory {
-    private Map<Item, Integer> itemTypeQuantity;
-
+    private Map<Integer, Integer> itemCodeItemQuantityMap;
+    private List<Item> itemList;
 }
