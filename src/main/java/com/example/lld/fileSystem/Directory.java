@@ -12,10 +12,12 @@ import java.util.List;
 @Getter
 @Setter
 public class Directory implements FileSystem{
+    private String directoryName;
     private List<FileSystem> fileSystems;
 
     @Override
     public void ls() {
+        System.out.println(this.directoryName);
         for(FileSystem fileSystem : this.fileSystems) {
             fileSystem.ls();
         }
