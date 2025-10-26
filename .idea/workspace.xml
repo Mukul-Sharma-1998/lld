@@ -5,13 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6373b2ac-28fc-44f6-993b-ffd89e6bb05e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/deadlock/Paper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/deadlock/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/deadlock/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/deadlock/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/deadlock/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/genericPrint/GenericPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/genericPrint/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/CoffeeInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/CoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/CoffeeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/coffeeMachineState/CoffeeMachineStateFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/coffeeMachineState/CoffeeSelectionState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/coffeeMachineState/DespensingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/coffeeMachineState/IdleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/coffeeMachineState/PaymentState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/coffeeMachineState/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/payment/CashPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/payment/PaymentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/payment/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/coffeeMachine/payment/UpiPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/newLogger/DebugLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/newLogger/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/newLogger/InfoLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/newLogger/LogType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/newLogger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lld/newLogger/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +80,7 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.example.lld.coffeeMachine.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.lld.genericPrint.Main" />
       <module name="lld" />
@@ -81,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.example.lld.inventoryManagement.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lld.inventoryManagement.Main" />
+    <configuration name="com.example.lld.coffeeMachine.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.coffeeMachine.Main" />
       <module name="lld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.lld.inventoryManagement.*" />
+          <option name="PATTERN" value="com.example.lld.coffeeMachine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.example.lld.splitwise.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.lld.splitwise.Main" />
+    <configuration name="com.example.lld.newLogger.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lld.newLogger.Main" />
       <module name="lld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.lld.splitwise.*" />
+          <option name="PATTERN" value="com.example.lld.newLogger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.example.lld.coffeeMachine.Main" />
+        <item itemvalue="Application.com.example.lld.newLogger.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.com.example.lld.ticTacToe.Main" />
-        <item itemvalue="Application.com.example.lld.inventoryManagement.Main" />
-        <item itemvalue="Application.com.example.lld.splitwise.Main" />
       </list>
     </recent_temporary>
   </component>
